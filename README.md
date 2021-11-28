@@ -1,3 +1,17 @@
+# Como rodar:
+- Importar o banco de dados `trabalho_implementacoes_de_aplicacoes_especiais.sql`
+- Rodar o comando: `composer install`
+- Rodar o comando: `npm install` (Sugestão: Node 14.18.1)
+- Rodar o comando: `php artisan migrate`
+- Para rodar a aplicação, rodar o comando: `php artisan serve`
+- Caso se queira eeditar arquivos do front, rodar: `npm run watch` (mais informações em: https://inertiajs.com/)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
